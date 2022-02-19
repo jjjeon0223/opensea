@@ -1,4 +1,4 @@
-OpenSea clone 
+# OpenSea clone 
 
 ## Tech Stack
 * Sanity
